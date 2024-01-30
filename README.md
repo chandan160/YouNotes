@@ -1,0 +1,1 @@
+"YouNotes" is an AI based web app which can summarize an youtube video in text format. The user has to simply provide the link of the Youtube video that want to be summarized and the app will generate a concise summary of that video. The app use cutting edge natural language processing and machine learning model to perform these tasks.
